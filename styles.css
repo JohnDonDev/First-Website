@@ -47,3 +47,9 @@ footer {
 #form_margin {
 	margin-left: 3cm;
 }
+
+@media screen {
+    body {
+        min-width: 400px;
+    }
+}
