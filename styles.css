@@ -1,2 +1,49 @@
-#blue_bg {
-	background: blue}
+a:visited{
+	color:orange;
+}
+
+a:hover{
+    color:green;
+}
+
+#first_head {
+	text-align: center;
+	font-size: 200%;
+	font-variant: small-caps;
+}
+
+.undertitle{
+	font-style: italic;
+}
+
+.categories{
+	font-size: 45px;
+	font-weight: bold;
+	color: #0E6800;
+	font-variant: small-caps;
+}
+
+footer {
+	text-align: center;
+	font-size: 125%;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+#background_image {
+	z-index:-1;
+	position: absolute;
+	margin-left:-128px;
+	margin-top:-75px;
+	border-radius: 50%;
+}
+
+#margin_padding {
+	margin-left: 1cm;
+	padding: 1cm;
+	font-size: 100%;
+}
+
+#form_margin {
+	margin-left: 3cm;
+}
