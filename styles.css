@@ -1,2 +1,26 @@
-#blue_bg {
-	background: blue}
+a:visited{
+	color:orange;
+}
+
+a:hover{
+    color:green;
+}
+
+#first_head {
+	text-align: center;
+	font-size: 200%;
+	font-variant: small-caps;
+}
+
+.undertitle{
+	font-style: italic;
+}
+
+.categories{
+	font-size: 45px;
+	font-weight: bold;
+	color: #0E6800;
+	font-variant: small-caps;
+
+}
+
